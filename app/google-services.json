@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895531033872",
+    "firebase_url": "https://recognitionex-1525928157592.firebaseio.com",
+    "project_id": "recognitionex-1525928157592",
+    "storage_bucket": "recognitionex-1525928157592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895531033872:android:fec8be3cc74dd3fa",
+        "android_client_info": {
+          "package_name": "com.thedevians.mlkitrecognizetextex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895531033872-9sb8sdmkdpckubpeuaro7ak4vrlcjptf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thedevians.mlkitrecognizetextex",
+            "certificate_hash": "862333308d74ed983d1c05b48733a2b06a8cd2f5"
+          }
+        },
+        {
+          "client_id": "895531033872-a8824psv2t9t2r18djbk69mbo68kv0ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2qcPJXE0bcHdyv6BzT7AnzcGfbgNSMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895531033872-a8824psv2t9t2r18djbk69mbo68kv0ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
